@@ -5,7 +5,7 @@
    },
    {
       "BrokerID" : 53,
-      "CommitSleep" : 200
+      "CommitSleep" : 500
    }
 ]
  
