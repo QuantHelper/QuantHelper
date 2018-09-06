@@ -1,0 +1,5 @@
+{
+"Check":1000,
+"Quant":[{"Name" : "超短线战法","Period" : 0,"QID" : 1}, {"Name" : "价值投机","Period" : 1,"QID" : 2}],
+"Trade":[{"QID" : 1,"Type" : 0,"Count" : 500,"Code" : "300567.SZ","Price" : "80.00","Time" : "2018-07-31 9:25:00","TID" : "123"}, {"QID" : 2,"Type" : 1,"Count" : 1500,"Code" : "600010.SH","Price" : "9.00","Time" : "2018-07-31 9:50:00","TID" : "321"}]
+}

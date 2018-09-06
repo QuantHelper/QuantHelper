@@ -1,0 +1,11 @@
+[
+   {
+      "BrokerID" : 0,
+      "CommitSleep" : 50
+   },
+   {
+      "BrokerID" : 53,
+      "CommitSleep" : 1000
+   }
+]
+ 
